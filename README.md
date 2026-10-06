@@ -41,7 +41,7 @@ Aprendendo, construindo e evoluindo a cada linha de código.
 
 ### 📊 Atividade no GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU-USUARIO-GITHUB&theme=tokyonight&hide_border=true)](https://github.com/SEU-USUARIO-GITHUB)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VvitoriaV&theme=tokyonight&hide_border=true)](https://github.com/VvitoriaV)
 
 ---
 

@@ -35,4 +35,14 @@ Aprendendo, construindo e evoluindo a cada linha de código.
 
 #### **Ferramentas**
 
-![Git](https://img.shields.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Atividade no GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VvitoriaV&theme=tokyonight&hide_border=true)](https://github.com/VvitoriaV)
+
+---
+
+Feito com 💜 e muita vontade de aprender • Vitória Silva
